@@ -70,7 +70,8 @@ ________________________________________
 
 •	Key Event Rates (Conversion Rate) (purchase and add-to-cart rates across channels)
 
-![image](https://github.com/user-attachments/assets/5c05024e-73ab-49ec-b02f-b8503022fe68)
+![image](https://github.com/user-attachments/assets/d11892dd-dcfa-4914-a083-a01f21dfe7d8)
+
 
 ________________________________________
 ## Key Observations from Data Analysis
