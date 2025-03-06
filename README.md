@@ -69,6 +69,9 @@ ________________________________________
 •	Average Order Value (AOV) (revenue per transaction)
 
 •	Key Event Rates (Conversion Rate) (purchase and add-to-cart rates across channels)
+
+![image](https://github.com/user-attachments/assets/5c05024e-73ab-49ec-b02f-b8503022fe68)
+
 ________________________________________
 ## Key Observations from Data Analysis
 
@@ -78,6 +81,9 @@ ________________________________________
 •	Growth was driven mainly by younger (18-24) and older (65+) users, while middle-aged segments (25-44) saw declines.
 
 •	This indicates a shift in Nike’s digital audience, which could reflect changing marketing focus or product appeal.
+
+![image](https://github.com/user-attachments/assets/16bbf111-7634-47c4-ad8e-25f713b008b4)
+
 ________________________________________
 ### 2. Decline in Average Session Duration
 •	Average session duration fell by 19.6%, from 260 seconds to 209 seconds.
@@ -85,6 +91,9 @@ ________________________________________
 •	This drop suggests that users are either finding what they need faster or engagement quality has declined.
 
 •	Mobile session duration improved slightly, but desktop engagement dropped significantly.
+
+![image](https://github.com/user-attachments/assets/28bfa2bb-f884-4ce8-a4ab-e385c7bf8ec9)
+
 ________________________________________
 ### 3. Marketing Channel Performance
 •	Direct traffic accounted for 47.2% of sessions in 2023, making it the dominant channel.
@@ -92,18 +101,29 @@ ________________________________________
 •	Organic search contributed 37%, proving the importance of SEO.
 
 •	Paid search, referral, and email combined contributed less than 20%, meaning paid strategies were underutilized.
+![image](https://github.com/user-attachments/assets/07f8e6e9-dc97-495d-a5f1-f72a2f03e49a)
+
 ________________________________________
 ### 4. Device Trends
 •	Mobile sessions dropped sharply, but tablet sessions increased by over 125%.
+![image](https://github.com/user-attachments/assets/db60ef1d-340c-4f47-8965-18c8af067c46)
+
+![image](https://github.com/user-attachments/assets/ef1ae0a8-78a9-4d26-b24e-8111cb7c3e41)
+
 
 •	Despite fewer mobile sessions, mobile session quality improved (longer duration per session).
 
 •	Desktop still drove most sessions, but its engagement time declined.
+
+![image](https://github.com/user-attachments/assets/ec55c2d9-3ae0-48b7-8a5d-e8dc0b3489ee)
+
 ________________________________________
 ### 5. Revenue Growth
 •	Total revenue increased by 73.64%, from $88,763.93 in October 2023 to $154,133.34 in October 2024.
 
 •	This growth reflects successful sales and marketing strategies but also potential external factors like seasonality or new product launches.
+![image](https://github.com/user-attachments/assets/80682bad-d2a6-4d33-8355-3cd641fa530a)
+
 ________________________________________
 ### 6. Top Product Analysis
 •	The Super G Brick Puzzle Set remained the top-selling product both years, with revenue increasing by 42%.
@@ -111,6 +131,9 @@ ________________________________________
 •	New products like Google Campus Bike and Chrome Dino Holiday Lodge Sweater emerged as strong performers in 2024.
 
 •	The product mix shifted significantly, indicating that product innovation and new launches were key drivers of revenue growth.
+
+![image](https://github.com/user-attachments/assets/af3359c7-92f6-4971-aa2f-2ee133b8699e)
+
 ________________________________________
 ### 7. City and Gender Insights
 •	In New York, male revenue surged by 357%, but female revenue dropped by 74%.
@@ -120,6 +143,9 @@ ________________________________________
 •	Sunnyvale saw revenue decline due to a sharp drop in female revenue (-85.5%).
 
 •	This highlights the need for localized marketing strategies targeted at specific demographics in each city.
+
+![image](https://github.com/user-attachments/assets/04aa7eeb-14f6-4821-b5d5-fcb59fc286f1)
+
 ________________________________________
 ### 8. Conversion Rate and AOV
 •	Conversion rate improved significantly, contributing 53% of revenue growth.
@@ -127,6 +153,9 @@ ________________________________________
 •	Average Order Value (AOV) increased by 5.12%, from $156.56 to $164.59.
 
 •	This shows that users are buying more expensive items or adding more to their carts.
+
+![image](https://github.com/user-attachments/assets/366c5e32-5234-461d-9ccc-fe141a5ed2e0)
+
 ________________________________________
 ## Recommendations
 Based on these findings, my recommendations for Nike were:
