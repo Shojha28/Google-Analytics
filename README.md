@@ -1,5 +1,6 @@
-Nike Google Analytics Project
-Introduction
+# Nike Google Analytics Project
+
+## Introduction
 In this project, I focused on analyzing Nike’s digital performance using Google Analytics data. The goal was to understand how user sessions, marketing channels, devices, and product sales changed over a period of time and to identify key factors influencing revenue growth and user engagement.
 This was a business-focused analytics project, so my role was not just to calculate metrics but also to connect data insights to practical recommendations that could improve Nike’s digital marketing strategy, user engagement, and revenue performance.
 ________________________________________
